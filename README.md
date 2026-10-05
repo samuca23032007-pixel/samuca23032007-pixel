@@ -80,10 +80,6 @@ Sou o Samuel, estudante de Análise e Desenvolvimento de Sistemas na UNIP (3º s
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-
-
-
-
 <br/>
 <br/>
 
@@ -95,7 +91,7 @@ Sou o Samuel, estudante de Análise e Desenvolvimento de Sistemas na UNIP (3º s
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=samuca23032007-pixel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=samuca23032007-pixel&show_icons=true&theme=tokyonight&custom_title=Estatísticas&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -106,3 +102,19 @@ Sou o Samuel, estudante de Análise e Desenvolvimento de Sistemas na UNIP (3º s
   />
 
 </p>
+
+<br clear="all"/>
+
+---
+
+### 🚀 Principais Projetos
+
+<a href="https://github.com/samuca23032007-pixel/PROJETO-DE-AUTOMATIZA-O-DE-TAREFAS-">
+  <img width="32%" alt="Automação de Tarefas" src="https://github-readme-stats.vercel.app/api/pin/?username=samuca23032007-pixel&repo=PROJETO-DE-AUTOMATIZA-O-DE-TAREFAS-&theme=tokyonight&locale=pt-br" />
+</a>
+<a href="https://github.com/samuca23032007-pixel/PROJETO-DE-AN-LISE-DE-DADOS-">
+  <img width="32%" alt="Análise de Dados" src="https://github-readme-stats.vercel.app/api/pin/?username=samuca23032007-pixel&repo=PROJETO-DE-AN-LISE-DE-DADOS-&theme=tokyonight&locale=pt-br" />
+</a>
+<a href="https://github.com/samuca23032007-pixel/PROJETO-DE-INTELIG-NCIA-ARTIFICIAL">
+  <img width="32%" alt="Inteligência Artificial" src="https://github-readme-stats.vercel.app/api/pin/?username=samuca23032007-pixel&repo=PROJETO-DE-INTELIG-NCIA-ARTIFICIAL&theme=tokyonight&locale=pt-br" />
+</a>
